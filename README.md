@@ -4,6 +4,8 @@ A personal finance dashboard I built to get better at tracking where my money ac
 
 Built with React, Vite, Tailwind CSS v4, and Recharts. No backend — everything lives in localStorage.
 
+**Live demo → [finance-dashboard-ui-ten-zeta.vercel.app](https://finance-dashboard-ui-ten-zeta.vercel.app/)**
+
 ---
 
 ## Why I built this
@@ -113,5 +115,4 @@ Three helper functions are exported alongside the raw data:
 - `getMonthlyTrend(transactions)` → grouped monthly data for the area/bar charts
 - `getCategorySpending(transactions)` → sorted category totals for the donut and breakdown
 
----
 
